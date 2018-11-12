@@ -1,0 +1,2 @@
+defmodule TypeClassPlayground do
+end
