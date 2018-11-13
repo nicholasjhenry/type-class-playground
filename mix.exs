@@ -18,6 +18,8 @@ defmodule TypeClassPlayground.MixProject do
   end
 
   defp deps do
-    []
+    [
+      {:currying, "~> 1.0.3"}
+    ]
   end
 end
