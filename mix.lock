@@ -1,3 +1,4 @@
 %{
   "currying": {:hex, :currying, "1.0.3", "6d036c86c38663a795858c9e744e406a62d7e5a66243a7da15326e731cdcd672", [:mix], [], "hexpm"},
+  "typed_struct": {:hex, :typed_struct, "0.1.4", "25971ce73a8b336dedf2f80e4dafaab111af127ba4773955b66805c89e197f6a", [:mix], [], "hexpm"},
 }

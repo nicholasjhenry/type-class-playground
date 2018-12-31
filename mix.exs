@@ -19,7 +19,8 @@ defmodule TypeClassPlayground.MixProject do
 
   defp deps do
     [
-      {:currying, "~> 1.0.3"}
+      {:currying, "~> 1.0.3"},
+      {:typed_struct, "~> 0.1.4"}
     ]
   end
 end
